@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FitnessMate</string>
+    <string name="goal">Your goal</string>
+    <string name="weight_gain">Weight Gain</string>
+    <string name="weight_loss">Weight Loss</string>
+    <string name="maintain">Maintain Weight</string>
+    <string name="bmi">Calculate BMI</string>
+    <string name="macros">Find Macros</string>
+    <string name="home">HOME</string>
+    <string name="profile">PROFILE</string>
+</resources>
